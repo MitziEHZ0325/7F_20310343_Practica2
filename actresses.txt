@@ -1,0 +1,8 @@
+Angelina Jolie,Castaño,Marrones,Si,Estadounidense,No,Si,No,si
+Jennifer Aniston,Rubio,Azules,No,Estadounidense,No,Si,No,No
+Jennifer Lawrence,Rubio,Marrones,Si,Estadounidense,Si,No,Si,Si
+Margot Robbie,Rubio,Azules,No,Australiana,No,No,Si,No
+Eiza Gonzalez,Castaño,Marrones,No,Mexicana,No,No,No,No
+Megan Fox,Castaño,Marrones,Si,Estadounidense,Si,No,No,No
+Meryl Streep,Rubio,Azules,Si,Estadounidense,No,Si,No,Si
+Scarlett Johansson,Rubio,Verdes,Si,Estadounidense,Si,No,Si,No
